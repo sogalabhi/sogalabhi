@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<h2 align="left">Hi 👋! My name is Abhijith Sogal - Full Stack Web Developer</h2>
+##
+<h2 align="left">Hi 👋! My name is Abhijith Sogal - Flutter Dev</h2>
 
 ###
 
