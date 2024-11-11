@@ -1,3 +1,6 @@
+<h2 align="left">Hi 👋! My name is Abhijith Sogal - Full Stack Web(MERN) and Flutter dev</h2>
+###
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=sogalabhi&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; min-width: 300px;" />
