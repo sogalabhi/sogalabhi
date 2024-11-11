@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Abhijith Sogal - Full Stack Web(MERN) and Flutter dev</h2>
-###
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
