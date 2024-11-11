@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhijith Sogal - Full Stack Web(MERN) and Flutter dev</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! My name is Abhijith Sogal - Full Stack Web(MERN) and Flutter dev</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
@@ -13,3 +13,5 @@
   <img src="https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 800px;" />
 
 </div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sogalabhi&style=flat-square&color=blue)
